@@ -1,7 +1,7 @@
 TEAM_ID,MIN_YEAR,MAX_YEAR,ABBREVIATION,NICKNAME,YEARFOUNDED,CITY,ARENA,ARENACAPACITY,OWNER,GENERALMANAGER,HEADCOACH,DLEAGUEAFFILIATION
 1610612737,1949,2019,ATL,Hawks,1949,Atlanta,State Farm Arena,18729,Tony Ressler,Travis Schlenk,Lloyd Pierce,Erie Bayhawks
 1610612738,1946,2019,BOS,Celtics,1946,Boston,TD Garden,18624,Wyc Grousbeck,Danny Ainge,Brad Stevens,Maine Red Claws
-1610612740,2002,2019,NOP,Pelicans,2002,New Orleans,Smoothie King Center,,Tom Benson,Trajan Langdon,Alvin Gentry,No Affiliate
+1610612740,2002,2019,NOP,Pelicans,2002,New Orleans,Smoothie King Center,0,Tom Benson,Trajan Langdon,Alvin Gentry,No Affiliate
 1610612741,1966,2019,CHI,Bulls,1966,Chicago,United Center,21711,Jerry Reinsdorf,Gar Forman,Jim Boylen,Windy City Bulls
 1610612742,1980,2019,DAL,Mavericks,1980,Dallas,American Airlines Center,19200,Mark Cuban,Donnie Nelson,Rick Carlisle,Texas Legends
 1610612743,1976,2019,DEN,Nuggets,1976,Denver,Pepsi Center,19099,Stan Kroenke,Tim Connelly,Michael Malone,No Affiliate
@@ -11,12 +11,12 @@ TEAM_ID,MIN_YEAR,MAX_YEAR,ABBREVIATION,NICKNAME,YEARFOUNDED,CITY,ARENA,ARENACAPA
 1610612748,1988,2019,MIA,Heat,1988,Miami,AmericanAirlines Arena,19600,Micky Arison,Pat Riley,Erik Spoelstra,Sioux Falls Skyforce
 1610612749,1968,2019,MIL,Bucks,1968,Milwaukee,Fiserv Forum,17500,Wesley Edens & Marc Lasry,Jon Horst,Mike Budenholzer,Wisconsin Herd
 1610612750,1989,2019,MIN,Timberwolves,1989,Minnesota,Target Center,19356,Glen Taylor,Scott Layden,Ryan Saunders,Iowa Wolves
-1610612751,1976,2019,BKN,Nets,1976,Brooklyn,Barclays Center,,Joe Tsai,Sean Marks,Kenny Atkinson,Long Island Nets
+1610612751,1976,2019,BKN,Nets,1976,Brooklyn,Barclays Center,0,Joe Tsai,Sean Marks,Kenny Atkinson,Long Island Nets
 1610612752,1946,2019,NYK,Knicks,1946,New York,Madison Square Garden,19763,Cablevision (James Dolan),Steve Mills,David Fizdale,Westchester Knicks
 1610612753,1989,2019,ORL,Magic,1989,Orlando,Amway Center,0,Rick DeVos,John Hammond,Steve Clifford,Lakeland Magic
 1610612754,1976,2019,IND,Pacers,1976,Indiana,Bankers Life Fieldhouse,18345,Herb Simon,Kevin Pritchard,Nate McMillan,Fort Wayne Mad Ants
-1610612755,1949,2019,PHI,76ers,1949,Philadelphia,Wells Fargo Center,,Joshua Harris,Elton Brand,Brett Brown,Delaware Blue Coats
-1610612756,1968,2019,PHX,Suns,1968,Phoenix,Talking Stick Resort Arena,,Robert Sarver,James Jones,Monty Williams,Northern Arizona Suns
+1610612755,1949,2019,PHI,76ers,1949,Philadelphia,Wells Fargo Center,0,Joshua Harris,Elton Brand,Brett Brown,Delaware Blue Coats
+1610612756,1968,2019,PHX,Suns,1968,Phoenix,Talking Stick Resort Arena,0,Robert Sarver,James Jones,Monty Williams,Northern Arizona Suns
 1610612757,1970,2019,POR,Trail Blazers,1970,Portland,Moda Center,19980,Paul Allen,Neil Olshey,Terry Stotts,No Affiliate
 1610612758,1948,2019,SAC,Kings,1948,Sacramento,Golden 1 Center,17500,Vivek Ranadive,Vlade Divac,Luke Walton,Stockton Kings
 1610612759,1976,2019,SAS,Spurs,1976,San Antonio,AT&T Center,18694,Peter Holt,Brian Wright,Gregg Popovich,Austin Spurs
