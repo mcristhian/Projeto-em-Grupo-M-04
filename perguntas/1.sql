@@ -2,3 +2,4 @@
 select ranking.conference, avg(ranking.w_pct)
 from ranking
 group by ranking.conference
+
