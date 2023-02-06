@@ -4,6 +4,9 @@
 
 Nesse projeto eu e meu squad montamos um dashboard com base no conjunto de dados que nós escolhemos, a fim de realizar uma apresentação com a exploração dos dados. 
 
+[Imagem](./img/modelo.png)
+Modelo lógico do banco de dados.
+
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 Objetivo</a>
 </h1>
