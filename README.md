@@ -4,7 +4,7 @@
 
 Nesse projeto eu e meu squad montamos um dashboard com base no conjunto de dados que nós escolhemos, a fim de realizar uma apresentação com a exploração dos dados. 
 
-[Imagem](./img/modelo.png)
+![Imagem](./img/modelo.png)
 
 Modelo lógico do banco de dados.
 
@@ -89,5 +89,3 @@ Quais os visitantes que mais pontuaram em uma partida?
 </br>
 • Thamilliz Vallesk
 </br></br> 
-
-
